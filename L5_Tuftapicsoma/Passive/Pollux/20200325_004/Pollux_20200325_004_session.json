@@ -1,0 +1,27 @@
+{
+	"date": "20200325",
+	"version": "1.0",
+	"project": "Muckli",
+	"dataset": "L5_Tuftapicsoma",
+	"subject": "Pollux",
+	"investigator": "KoenS",
+	"setup": "Gaia",
+	"stimulus": "gratingwarped",
+	"condition": "Passive",
+	"logfile": "Pollux_20200325_004_log",
+	"display": {
+		"shaderpath": "C:\\Users\\ninuser\\Documents\\GitHub\\2Pimage\\mouse\\OGL\\shaders\\",
+		"Scrnwide": 527,
+		"Scrnhigh": 296.5,
+		"ScreenDistance": 150,
+		"win": 10,
+		"rect": [0,0,1920,1080],
+		"fit": [1.028788489,0.5355982257,0,0],
+		"ar": 0.5625,
+		"mmpp": 0.2744791667,
+		"pixperdeg": 9.538052858,
+		"degpmm": 0.3819662047,
+		"framerate": 60,
+		"logpath": "C:\\Users\\ninuser\\Documents\\logs\\logs_koen\\Pollux\\20200325\\Pollux_20200325_004_log"
+	}
+}

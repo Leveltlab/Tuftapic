@@ -1,0 +1,27 @@
+{
+	"version": "1.0",
+	"project": "Muckli",
+	"dataset": "L5_Tuftapicsoma",
+	"date": "20200507",
+	"subject": "Vormer",
+	"investigator": "KoenS",
+	"setup": "Gaia",
+	"condition": "Passive",
+	"stimulus": "none",
+	"logfile": "Vormer_20200507_001",
+	"script": null,
+	"display": {
+		"Scrnwide": 536,
+		"Scrnhigh": 302,
+		"ScreenDistance": 150,
+		"shaderpath": "C:\\Users\\dataman\\Documents\\GitHub\\2Pimage\\mouse\\OGL\\shaders\\",
+		"win": 10,
+		"rect": [0,0,1920,1080],
+		"fit": [1.028788489,0.5355982257,0,0],
+		"ar": 0.5625,
+		"mmpp": 0.2791666667,
+		"pixperdeg": 9.377899346,
+		"degpmm": 0.3819662047,
+		"framerate": 60
+	}
+}
