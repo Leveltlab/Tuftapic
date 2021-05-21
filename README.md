@@ -1,4 +1,4 @@
-# Tuftapic
+# Tuftapic  [![DOI](https://zenodo.org/badge/369223244.svg)](https://zenodo.org/badge/latestdoi/369223244)
 
 ## Simultaneous 2-photon calcium imaging in dendritic tufts & cell bodies of single pyramidal neurons in mouse V1
 
